@@ -46,7 +46,7 @@ const btn=()=>{
 
 <nav className= 'navbar lg:bg-red-500  xl:bg-blue-500 md:bg-yellow-300 flex justify-between p-5 w-[100vw]'>
     <h1 className='heading-0 flex text-3xl md:text-xl font-bold'>
-    <img className='img-0 w-11 h-10' src="public/Main images/star-img.png" /> WizardZ</h1>
+    <img className='img-0 w-11 h-10' src="/Main images/star-img.png" /> WizardZ</h1>
 
 
 <img onClick={btn} className="img-1" src="/menu.png" alt="" />

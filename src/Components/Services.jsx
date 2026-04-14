@@ -314,7 +314,7 @@ mm.add('(min-width:1280px)',()=>{
               <h1 className='heading-4'>Pay per click advertising</h1>
             </div>
             <div className="right3 many-right">
-              <img className='img-4' src="public/Secondary-images/second-img.jpg" alt="" />
+              <img className='img-4' src="/Secondary-images/second-img.jpg" alt="" />
             </div>
           </div>
 
@@ -332,7 +332,7 @@ mm.add('(min-width:1280px)',()=>{
               <h1 className='heading-6'>E-mail marketing</h1>
             </div>
             <div className="right5 many-right">
-              <img className='img-6' src="public/Secondary-images/fourth-img.jpg" alt="" />
+              <img className='img-6' src="/Secondary-images/fourth-img.jpg" alt="" />
             </div>
           </div>
 
@@ -350,7 +350,7 @@ mm.add('(min-width:1280px)',()=>{
               <button className='btn-2'>Get your free proposal</button>
             </div>
             <div className="right6">
-              <img className='img-7' src="public/Secondary-images/six-image-removebg-preview.png" alt="" />
+              <img className='img-7' src="/Secondary-images/six-image-removebg-preview.png" alt="" />
             </div>
           </div>
         </main>

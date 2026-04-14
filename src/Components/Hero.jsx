@@ -395,11 +395,11 @@ tl.fromTo('.heading-1',{
         <button className='btn-1'>Book a consultation</button>
       </div>
       <div className="right">
-        <img className='img-2' src="public/Main images/Horn-img.jpg" alt="" srcset="" />
+        <img className='img-2' src="/Main images/Horn-img.jpg" alt="" srcset="" />
       </div>
         </div>
 <div className="logos">
-    <img className='logo logo-1' src="public/Main images/logo-1.png" alt="" /><img className='logo logo-2'  src="public/Main images/logo-2.png" alt="" /><img className='logo logo-3'  src="public/Main images/logo-3.png" alt="" /><img className='logo logo-4'   src="public/Main images/logo-4.png" alt="" /><img className='logo logo-5'  src="public/Main images/logo-5.png" alt="" />
+    <img className='logo logo-1' src="/Main images/logo-1.png" alt="" /><img className='logo logo-2'  src="/Main images/logo-2.png" alt="" /><img className='logo logo-3'  src="/Main images/logo-3.png" alt="" /><img className='logo logo-4'   src="/Main images/logo-4.png" alt="" /><img className='logo logo-5'  src="/Main images/logo-5.png" alt="" />
 
 
 
